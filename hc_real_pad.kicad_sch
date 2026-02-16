@@ -3957,7 +3957,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 144.78 106.68 270)
+		(at 137.16 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3967,7 +3967,7 @@
 		)
 		(uuid "0aa5f7da-8ca6-40c0-b086-20785cc3e76e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 113.2333 90)
+			(at 137.16 113.2333 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +4155,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 142.24 106.68 270)
+		(at 139.7 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4165,7 +4165,7 @@
 		)
 		(uuid "4f6b85ac-614a-4fec-8f17-e7aef01d5287")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.24 113.1728 90)
+			(at 139.7 113.1728 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8340,7 +8340,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 106.68 0)
+		(at 144.78 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8348,7 +8348,7 @@
 		(dnp no)
 		(uuid "a0a8202a-de93-48b3-85b8-98b769b0518a")
 		(property "Reference" "#PWR09"
-			(at 137.16 113.03 0)
+			(at 144.78 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8357,7 +8357,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 133.858 107.95 0)
+			(at 147.828 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8365,7 +8365,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 106.68 0)
+			(at 144.78 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8374,7 +8374,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 106.68 0)
+			(at 144.78 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8383,7 +8383,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 106.68 0)
+			(at 144.78 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9744,7 +9744,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 139.7 106.68 180)
+		(at 142.24 106.68 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9752,7 +9752,7 @@
 		(dnp no)
 		(uuid "e33d6897-b8ba-49ef-bc80-5f0127608802")
 		(property "Reference" "#PWR08"
-			(at 139.7 102.87 0)
+			(at 142.24 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9761,7 +9761,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 139.192 110.744 0)
+			(at 143.002 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,7 +9769,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 106.68 0)
+			(at 142.24 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9778,7 +9778,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 106.68 0)
+			(at 142.24 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9787,7 +9787,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 139.7 106.68 0)
+			(at 142.24 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
