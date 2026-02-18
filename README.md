@@ -1,6 +1,7 @@
 # MEGAPAD
 ![MEGAPAD Render](pcb.png)
-MEGAPAD is a macropad that has all the features that you could ever want in a macro pad. Made for Hackclub blueprint.
+![MEGAPAD Assembly](assembly.png)
+MEGAPAD is a macropad that has all the features that you could ever want in a macro pad. Made for Hackclub blueprint. Also I am aware of the weird lines, I don't know what is causing it; I think it is a bug with KiCad.
 
 ## FEATURES
 MEGAPAD has alot of features so it was difficult to list them all. But I did it anyway:
@@ -39,3 +40,6 @@ Case
 - 3x M3x5mx4mm Heatset Inserts
 - 3 M3x16mm Screws
 - Case Parts (the top and bottom parts)
+
+## REVIEWERS NOTE
+I am aware of the board being over the size limit. I am willing to pay for the boards (due to them being too large). Also I can fund the PCB myself I just need the parts from the kit. As for the IO expander I will also provide that myself as I already have one on hand.
