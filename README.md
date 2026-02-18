@@ -12,6 +12,7 @@ MEGAPAD has alot of features so it was difficult to list them all. But I did it 
 - All powered by a SEEED XIAO RP2040 microcontroller
 - Firmware written with KMK
 - An IO Expander (not really a feature but I wanted to include it anyway)
+
 *Clickiness not guaranteed
 
 ## CAD MODEL
