@@ -20,7 +20,7 @@ The CAD model consists of two pieces. The base and the top. The PCB is sandwitch
 ![MEGAPAD Model Render](model.png)
 
 ## PCB
-This was my first time using KiCad and making a PCB in general. In retrospect I should have chosen an easier design first but I made this. I know my traces aren't routed the best but as I said it was my first time.
+This was my first time using KiCad and making a PCB in general. In retrospect I should have chosen an easier design first but I made this. I know my traces aren't routed the best but as I said it was my first time. The GERBER files are in PCB/jlcpcb/gerber and PCB/jlcpcb/production_files.
 ![MEGAPAD Schematic](schematic.png "Schematic")
 ![MEGAPAD PCB](routes.png "PCB")
 
